@@ -1,0 +1,44 @@
+body
+{
+    margin: 50px 50px 50px 50px;
+}
+
+.modal-content {
+    background-color: #FF3821;
+    font-size: 40px;
+    padding: 0px 22px;
+}
+
+.modal-header {
+    align-items: center;
+    border-bottom: 0.5px solid #dadada;
+}
+
+.button {
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+#display{
+    font-size: 80px;
+}
+
+#timerDisplay{
+    font-size: 80px;
+}
+
+#pomodoroDisplay{
+    font-size: 80px;
+}
+
+#content {
+    font-size: 24px;
+}
+
+.button {
+    background-color: #21B5FF;
+    color: white;
+    border-radius: 5px;
+}
