@@ -1,16 +1,14 @@
-Documentation for your project in the form of a Markdown file called README.md.
-This documentation is to be a user’s manual for your project.
-Though the structure of your documentation is entirely up to you,
-it should be incredibly clear to the staff how and where, if applicable, to compile, configure, and use your project.
-Your documentation should be at least several paragraphs in length.
-It should not be necessary for us to contact you with questions regarding your project after its submission.
-Hold our hand with this documentation; be sure to answer in your documentation any questions that you think we might have while testing your work.
+# Productivity Tools
+Productivity Tools is a Chrome Extension with various features allowing users to maintain productivity by keeping track of time.
 
------
+## Installation
+
 In order to first start using the Chrome extension, open Google Chrome and type in "chrome://extensions" in the search bar. Toggle the switch in the top
 right corner that says Developer Mode such that it is on. Then, find the button that says Load Unpacked (top left hand side) and upload the entire folder named
 implementation. Then, there should be a small timer icon in the top right of the Chrome browser, next to the other Chrome extensions. Click the timer
 to start using the extension.
+
+## Features and Usage
 
 There are 4 main components to this application, which are the stopwatch, countdown timer, pomodoro timer, and to-do list. Because
 JavaScript with Chrome Extensions is extremely limited (e.g. button/HTML form interactions require a special workaround because commands such as "onclick"
